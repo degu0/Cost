@@ -1,4 +1,4 @@
-import style from './ProjectCard.module.css'
+import style from './module/ProjectCard.module.css'
 
 import { Link } from 'react-router-dom'
 import { BsPencil, BsFillTrashFill } from 'react-icons/bs'

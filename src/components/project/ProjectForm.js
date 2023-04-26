@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import style from './Project.module.css'
+import style from './module/Project.module.css'
 
 import Input from '../form/Input'
 import Select from '../form/Select'

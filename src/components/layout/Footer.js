@@ -7,10 +7,14 @@ function Footer() {
         <footer className={style.footer}>
             <ul className={style.social_list}>
                 <li>
-                    <FaLinkedin />
+                    <a href='https://www.linkedin.com/in/deyvid-gustavo-0642a2235/' target='_blanck'>
+                        <FaLinkedin />
+                    </a>
                 </li>
                 <li>
-                    <FaGithub />
+                    <a href='https://github.com/degu0' target='_blanck'>
+                        <FaGithub />
+                    </a>
                 </li>
             </ul>
             <p className={style.copy_right}>

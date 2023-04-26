@@ -1,24 +1,14 @@
 {
   "projects": [
     {
-      "name": "Library",
-      "budget": "2000",
+      "name": "Library_ETE",
+      "budget": "2003",
       "category": {
         "id": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 2
-    },
-    {
-      "name": "3213",
-      "budget": "4124",
-      "category": {
-        "id": "infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
     },
     {
       "name": "4234",
@@ -36,8 +26,27 @@
       "category": {
         "id": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5277,
+      "services": [
+        {
+          "name": "5412431",
+          "cost": "43",
+          "description": "141",
+          "id": "62feadd6-f184-4d47-8d17-491b29af1bfe"
+        },
+        {
+          "name": "3123",
+          "cost": "4123",
+          "description": "412",
+          "id": "c3bf754d-3c55-4a0a-80e9-ebe9a2560293"
+        },
+        {
+          "name": "1111",
+          "cost": "1111",
+          "description": "1111",
+          "id": "354dc324-454b-413e-93c9-c550ae97730f"
+        }
+      ],
       "id": 5
     }
   ],
